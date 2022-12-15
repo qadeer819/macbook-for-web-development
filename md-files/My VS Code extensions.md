@@ -1,7 +1,29 @@
 ---
-modified: 2022-11-21T18:56:08.840Z
+modified: 2022-12-15T22:01:04.267Z
 title: My VS Code extensions
 ---
+[`index`](./README.md)
+[`vs code extension`](./md-files/My%20VS%20Code%20extensions.md)
+[`Awesome Web`](./md-files/Awesome-Web-Development-Resources.md)
+[`chrome extensions`](./md-files/chrom-extension.md)
+[`Cheat shees`](./md-files/cheat%20sheets.md)
+[`brew install`](./md-files/brew%20setup.md)
+[`System Preferences`](./System%20Preferences.md)
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
 
 # My VS Code extensions
 

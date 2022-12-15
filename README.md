@@ -1,8 +1,27 @@
 <samp><b>Qadeer New macbook for devlopment setup</b></samp>
 
-[`.vscode/settings.json`](./.vscode/settings.json)
-[`.vscode/extensions.json`](./.vscode1/extensions.json)
-[`.vscode/extensions.json`](./.vscode1/extensions.json)
+[`index`](./README.md)
+[`vs code extension`](./md-files/My%20VS%20Code%20extensions.md)
+[`Awesome Web`](./md-files/Awesome-Web-Development-Resources.md)
+[`chrome extensions`](./md-files/chrom-extension.md)
+[`Cheat shees`](./md-files/cheat%20sheets.md)
+[`brew install`](./md-files/brew%20setup.md)
+[`System Preferences`](./System%20Preferences.md)
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
+<!-- [`System Preferences`](./System%20Preferences.md) -->
 
 1. [install brew](./brew%20setup.md)
 2. Another item

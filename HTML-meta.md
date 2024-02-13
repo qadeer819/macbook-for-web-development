@@ -1,3 +1,4 @@
+https://www.darraghoriordan.com/2021/09/15/vscode-default-text-files-mac
 # 🤯 HEAD
 
 > A simple guide to HTML `<head>` elements
